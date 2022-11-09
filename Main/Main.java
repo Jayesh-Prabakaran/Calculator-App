@@ -15,6 +15,6 @@ public class Main
         int val2=sc.nextInt();
         
         sum(val1, val2);
-        difference(val1, val2);
+        difference(val2, val1);
     }
 }
