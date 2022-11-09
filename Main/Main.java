@@ -14,7 +14,7 @@ public class Main
         System.out.println("Enter value 2: ");
         int val2=sc.nextInt();
         
-        sum(val1, val2);
+        sum(val2, val1);
         difference(val1, val2);
     }
 }
