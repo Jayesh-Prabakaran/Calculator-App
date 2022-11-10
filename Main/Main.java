@@ -26,5 +26,7 @@ public class Main
 
         sum(val1, val2);
         difference(val1, val2);
+
+        System.out.println("New Change");
     }
 }
